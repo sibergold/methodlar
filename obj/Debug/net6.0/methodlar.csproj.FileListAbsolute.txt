@@ -1,0 +1,15 @@
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\methodlar.csproj.AssemblyReference.cache
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\methodlar.AssemblyInfoInputs.cache
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\methodlar.AssemblyInfo.cs
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\methodlar.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\methodlar\bin\Debug\net6.0\methodlar.exe
+C:\Users\OSMAN\methodlar\bin\Debug\net6.0\methodlar.deps.json
+C:\Users\OSMAN\methodlar\bin\Debug\net6.0\methodlar.runtimeconfig.json
+C:\Users\OSMAN\methodlar\bin\Debug\net6.0\methodlar.dll
+C:\Users\OSMAN\methodlar\bin\Debug\net6.0\methodlar.pdb
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\methodlar.dll
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\refint\methodlar.dll
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\methodlar.pdb
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\methodlar.genruntimeconfig.cache
+C:\Users\OSMAN\methodlar\obj\Debug\net6.0\ref\methodlar.dll
